@@ -1,0 +1,28 @@
+#p1 {
+    color: blue;
+}
+
+#p2 {
+    font-family: "Courier New", Arial;
+}
+
+#p3 {
+    text-align: center;
+}
+
+#p4 {
+    font-size: 50px;
+}
+
+#d1 {
+    background-color: yellow;
+}
+
+#d2, #p6 {
+    text-align: center;
+}
+
+#d3 {
+    border: solid 1px blue;
+    height: 200px;
+}
